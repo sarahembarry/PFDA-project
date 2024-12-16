@@ -60,3 +60,46 @@
 - [**Pandas: How to Use dropna() with Specific Columns**](https://www.statology.org/pandas-dropna-specific-column/)  
   Source: statology.org, 2023
 
+
+  - [**Pandas: to_numeric for multiple columns**](https://stackoverflow.com/questions/36814100/pandas-to-numeric-for-multiple-columns)  
+  Source: stackoverflow.com, 2016
+
+ - [**Plotly: Subplots in Python**](https://plotly.com/python/subplots/?utm_source=chatgpt.com)  
+  Source: plotly.com, 2024
+
+   - [**Plotly: Scatter Plots in Python**](https://plotly.com/python/line-and-scatter/)  
+  Source: plotly.com, 2024
+
+
+   - [**Plotly: Python Figure Reference: layout**](https://plotly.com/python/reference/layout/)  
+  Source: plotly.com, 2024
+
+
+
+     - [**Plotly: Python Figure Reference: layout.xaxis**](https://plotly.com/python/reference/layout/xaxis/)  
+  Source: plotly.com, 2024
+
+   - [**Plotly: Python Figure Reference: layout.yaxis**](https://plotly.com/python/reference/layout/yaxis/#:~:text=Python%20Figure%20Reference%3A%20layout.,yaxis&text=Type%3A%20dict%20containing%20one%20or%20more%20of%20the%20keys%20listed%20below.&text=If%20set%20to%20an%20opposite,the%20corresponding%20opposite%2Dletter%20axis.)  
+  Source: plotly.com, 2024
+
+
+  - [**How to reset index after Groupby pandas?**](https://www.geeksforgeeks.org/how-to-reset-index-after-groupby-pandas/)  
+  Source: geeksforgeeks.org, 2024
+
+
+  - [**How to Specify Format in pandas.to_datetime**](https://www.statology.org/pandas-to-datetime-format/)  
+  Source: statology.org, 2023
+
+   - [**Pandas DataFrame copy() Method**](https://www.statology.org/pandas-to-datetime-format/)  
+  Source: w3schools.com, 2024
+
+
+    - [**Pandas DataFrame assign() Method | Create new Columns in DataFrame**](https://www.geeksforgeeks.org/pandas-dataframe-assign/)  
+  Source: geeksforgeeks.org, 2024
+
+
+
+
+
+    - [**The Basics of the Python Enumerate() Function**](https://blog.hubspot.com/website/python-enumerate)  
+  Source: blog.hubspot.com, 2023
