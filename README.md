@@ -10,6 +10,9 @@
 
 ## Credits and References
 
+- [**Pandas DataFrames as interactive HTML DataTables**](https://marc-wouts.medium.com/pandas-dataframes-as-interactive-html-datatables-9737c7266abf)  
+  Source: medium.com, 2022
+
 - [**Add column with constant value to pandas dataframe**](https://www.geeksforgeeks.org/add-column-with-constant-value-to-pandas-dataframe/)  
   Source: geeksforgeeks.org, 2020
 
@@ -103,3 +106,14 @@
 
     - [**The Basics of the Python Enumerate() Function**](https://blog.hubspot.com/website/python-enumerate)  
   Source: blog.hubspot.com, 2023
+
+
+    - [**Grouped Barplot using Seaborn**](https://python-graph-gallery.com/grouped-barplot/)  
+  Source: python-graph-gallery.com, 2024
+
+
+    - [**Annotate bars with values on Pandas bar plots**](https://stackoverflow.com/questions/25447700/annotate-bars-with-values-on-pandas-bar-plots)  
+  Source: stackoverflow.com, 2014
+
+   - [**How To Annotate Bars in Barplot with Matplotlib in Python?s**](https://www.geeksforgeeks.org/how-to-annotate-bars-in-barplot-with-matplotlib-in-python/)  
+  Source: geeksforgeeks.org, 2024
