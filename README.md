@@ -115,5 +115,21 @@
     - [**Annotate bars with values on Pandas bar plots**](https://stackoverflow.com/questions/25447700/annotate-bars-with-values-on-pandas-bar-plots)  
   Source: stackoverflow.com, 2014
 
-   - [**How To Annotate Bars in Barplot with Matplotlib in Python?s**](https://www.geeksforgeeks.org/how-to-annotate-bars-in-barplot-with-matplotlib-in-python/)  
+   - [**How To Annotate Bars in Barplot with Matplotlib in Python?**](https://www.geeksforgeeks.org/how-to-annotate-bars-in-barplot-with-matplotlib-in-python/)  
   Source: geeksforgeeks.org, 2024
+
+
+
+
+
+
+
+
+
+
+ - [**Beaufort scale for land**](https://www.met.ie/cms/assets/uploads/2022/09/Beaufort-scale-for-land.png)  
+  Source: www.met.ie, 2024
+
+
+ - [**Wind Energy Technology**](http://www.iwea.ie/technicalfaqs#:~:text=Turbines%20reach%20maximum%20power%20output,prevent%20excessive%20wear%20and%20tear.)  
+  Source: iwea.ie, 2024
