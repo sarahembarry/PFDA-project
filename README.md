@@ -119,7 +119,11 @@
   Source: geeksforgeeks.org, 2024
 
 
+  - [**Pandas Apply: 12 Ways to Apply a Function to Each Row in a DataFrame**](https://www.ml4devs.com/articles/pandas-dataframe-apply-function-iterate-over-rows/)  
+  Source: ml4devs.com, 2024
 
+   - [**Pandas DataFrame agg() Method**](https://www.w3schools.com/python/pandas/ref_df_agg.asp)  
+  Source: w3schools.com, 2024
 
 
 
