@@ -126,6 +126,41 @@
   Source: w3schools.com, 2024
 
 
+   - [**Python: Linear regression from Pandas df - ordinal dates conversion**](https://stackoverflow.com/questions/66720622/python-linear-regression-from-pandas-df-ordinal-dates-conversion)  
+  Source: stackoverflow.com, 2021
+
+   - [**Python: python linear regression predict by date**](https://stackoverflow.com/questions/40217369/python-linear-regression-predict-by-date)  
+  Source: stackoverflow.com, 2016
+
+
+ - [**Pandas date_range to generate monthly data at beginning of the month**](https://stackoverflow.com/questions/34915828/pandas-date-range-to-generate-monthly-data-at-beginning-of-the-month)  
+  Source: stackoverflow.com, 2016
+
+
+ - [**Linear Regression in Python**](https://realpython.com/linear-regression-in-python/)  
+  Source: realpython.com, 2024
+
+ - [**How to split data into training and testing in Python without sklearn**](https://www.geeksforgeeks.org/how-to-split-data-into-training-and-testing-in-python-without-sklearn/)  
+  Source: geeksforgeeks.org, 2023
+
+
+   - [**Pandas quantile()**](https://www.programiz.com/python-programming/pandas/methods/quantile#:~:text=Add%20two%20numbers-,Pandas%20quantile(),within%20a%20DataFrame%20or%20Series.)  
+  Source: rogramiz.com, 2024
+
+ - [**Split dataframe into two on the basis of date**](https://stackoverflow.com/questions/37532098/split-dataframe-into-two-on-the-basis-of-date)  
+  Source: stackoverflow.com, 2016
+
+
+ - [**Regression Metrics for Machine Learning**](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)  
+  Source: machinelearningmastery.com, 2021
+
+   - [**Split Your Dataset With scikit-learn's train_test_split()**](https://realpython.com/train-test-split-python-data/e)  
+  Source: realpython.com, 2016
+
+
+- [**Mastering Mean Absolute Error: A Beginner's Guide to Evaluating Regression Models**](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)  
+  Source: the-pi-guy.com, 2024
+
 
 
 
