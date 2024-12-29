@@ -67,7 +67,7 @@
   - [**Pandas: to_numeric for multiple columns**](https://stackoverflow.com/questions/36814100/pandas-to-numeric-for-multiple-columns)  
   Source: stackoverflow.com, 2016
 
- - [**Plotly: Subplots in Python**](https://plotly.com/python/subplots/?utm_source=chatgpt.com)  
+ - [**Plotly: Subplots in Python**](https://plotly.com/python/subplots/)  
   Source: plotly.com, 2024
 
    - [**Plotly: Scatter Plots in Python**](https://plotly.com/python/line-and-scatter/)  
@@ -161,9 +161,39 @@
 - [**Mastering Mean Absolute Error: A Beginner's Guide to Evaluating Regression Models**](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)  
   Source: the-pi-guy.com, 2024
 
+  - [**How to Create an Index for Python Pandas DataFrame: A Guide**](https://saturncloud.io/blog/how-to-create-an-index-for-python-pandas-dataframe-a-comprehensive-guide/)  
+  Source: saturncloud.io, 2023
+
+ - [**Complete Guide To SARIMAX in Python**](https://www.geeksforgeeks.org/complete-guide-to-sarimax-in-python/)  
+  Source: geeksforgeeks.org, 2023
+
+ - [**Forecasting Time Series Data with SARIMAX: A Step-by-Step Guide**](https://medium.com/pythonforall/forecasting-time-series-data-with-sarimax-a-step-by-step-guide-701bffc990dd)  
+  Source: medium.com, 2024
+
+   - [**How to Create an Index for Python Pandas DataFrame: A Guide**](https://saturncloud.io/blog/how-to-create-an-index-for-python-pandas-dataframe-a-comprehensive-guide/)  
+  Source: saturncloud.io, 2023
+
+
+  - [**Splitting data using time-based splitting in test and train datasets**](https://stackoverflow.com/questions/50879915/splitting-data-using-time-based-splitting-in-test-and-train-datasets)  
+  Source: stackoverflow.com, 2018
+
+  - [**Seasonality and SARIMAX**](https://www.kaggle.com/code/nholloway/seasonality-and-sarimax)  
+  Source: kaggle.com, 2018
+
+
+  - [**Three techniques to improve SARIMAX model for time series forecasting**](https://medium.com/@poudel.birat25/three-techniques-to-improve-sarimax-model-for-time-series-forecasting-5d48db984fbe)  
+  Source: medium.com, 2024
 
 
 
+  - [**Forecasting in statsmodels**](https://www.statsmodels.org/dev/examples/notebooks/generated/statespace_forecasting.html)  
+  Source: statsmodels.org, 2024
+
+
+
+
+  - [**How to Calculate Mean Absolute Error in Python**](https://www.statology.org/mean-absolute-error-python)  
+  Source: statsmodels.org, 2024
 
 
  - [**Beaufort scale for land**](https://www.met.ie/cms/assets/uploads/2022/09/Beaufort-scale-for-land.png)  
