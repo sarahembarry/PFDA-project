@@ -10,6 +10,11 @@
 
 ## Credits and References
 
+
+- [**Met Eireann Historical Data**](https://www.met.ie/climate/available-data/historical-data)  
+  Source: met.ie, 2024
+
+
 - [**Pandas DataFrames as interactive HTML DataTables**](https://marc-wouts.medium.com/pandas-dataframes-as-interactive-html-datatables-9737c7266abf)  
   Source: medium.com, 2022
 
@@ -188,6 +193,16 @@
 
   - [**Forecasting in statsmodels**](https://www.statsmodels.org/dev/examples/notebooks/generated/statespace_forecasting.html)  
   Source: statsmodels.org, 2024
+
+
+
+    - [**How to Use Seasonal ARIMA (SARIMA) for Time Series Forecasting in Python**](https://www.statology.org/how-to-use-seasonal-arima-sarima-for-time-series-forecasting-in-python/)  
+  Source: statology.org, 2024
+
+
+      - [**Time Series Forecasting with Python**](https://www.blog.trainindata.com/time-series-forecasting-python/)  
+  Source: blog.trainindata.com 2024
+
 
 
 
