@@ -24,10 +24,10 @@ This repository analyzes weather data from five Irish locations to assess wind f
 ## How to Get Started
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/sarahembarry/PFDA-project.git
-   cd PFDA-project
-   ```
+```bash
+git clone https://github.com/sarahembarry/PFDA-project.git
+cd PFDA-project
+```
 2. **Set Up Dependencies:**
 Install required Python libraries using the provided `requirements.txt` file:
 
@@ -46,7 +46,7 @@ Open the Jupyter Notebook, execute the cells step by step, and review visualizat
   Source: met.ie, 2024
 
 - **[Beaufort scale for land](https://www.met.ie/cms/assets/uploads/2022/09/Beaufort-scale-for-land.png)**\
-  Source: www.met.ie, 2024
+  Source: met.ie, 2024
 
 - **[Wind Energy Technology](http://www.iwea.ie/technicalfaqs#:~:text=Turbines%20reach%20maximum%20power%20output,prevent%20excessive%20wear%20and%20tear.)**\
   Source: iwea.ie, 2024
@@ -61,6 +61,21 @@ Open the Jupyter Notebook, execute the cells step by step, and review visualizat
 
 - **[pandas.concat() function in Python](https://www.geeksforgeeks.org/pandas-concat-function-in-python/)**\
   Source: geeksforgeeks.org, 2023
+
+- **[How to reset index after Groupby pandas?](https://www.geeksforgeeks.org/how-to-reset-index-after-groupby-pandas/)**\
+  Source: geeksforgeeks.org, 2024
+
+- **[How to Specify Format in pandas.to\_datetime](https://www.statology.org/pandas-to-datetime-format/)**\
+  Source: statology.org, 2023
+
+- **[Pandas DataFrame assign() Method | Create new Columns in DataFrame](https://www.geeksforgeeks.org/pandas-dataframe-assign/)**\
+  Source: geeksforgeeks.org, 2024  
+
+- [**Pandas quantile()**](https://www.programiz.com/python-programming/pandas/methods/quantile)\
+  Source: programiz.com, 2024
+
+- **[The Basics of the Python Enumerate() Function](https://blog.hubspot.com/website/python-enumerate)**\
+  Source: blog.hubspot.com, 2023  
 
 ### Data Cleaning References
 
@@ -102,17 +117,12 @@ Open the Jupyter Notebook, execute the cells step by step, and review visualizat
 - **[Plotly: Python Figure Reference: layout.yaxis](https://plotly.com/python/reference/layout/yaxis/#:~\:text=Python%20Figure%20Reference%3A%20layout.,yaxis\&text=Type%3A%20dict%20containing%20one%20or%20more%20of%20the%20keys%20listed%20below.\&text=If%20set%20to%20an%20opposite,the%20corresponding%20opposite%2Dletter%20axis.)**\
   Source: plotly.com, 2024
 
-- **[How to reset index after Groupby pandas?](https://www.geeksforgeeks.org/how-to-reset-index-after-groupby-pandas/)**\
-  Source: geeksforgeeks.org, 2024
+- **[Plotly: Scatterplot Matrix in Python](https://plotly.com/python/splom/)**\
+  Source: plotly.com, 2024
 
-- **[How to Specify Format in pandas.to\_datetime](https://www.statology.org/pandas-to-datetime-format/)**\
-  Source: statology.org, 2023
+- **[Plotly: Hover Text and Formatting in Python](https://plotly.com/python/hover-text-and-formatting/#:~:text=Customizing%20Hover%20text%20with%20Plotly%20Express,-Plotly%20Express%20functions&text=The%20hover_data%20argument%20accepts%20a,bold%20as%20the%20tooltip%20title.)**\
+  Source: plotly.com, 2024
 
-- **[Pandas DataFrame assign() Method | Create new Columns in DataFrame](https://www.geeksforgeeks.org/pandas-dataframe-assign/)**\
-  Source: geeksforgeeks.org, 2024
-
-- **[The Basics of the Python Enumerate() Function](https://blog.hubspot.com/website/python-enumerate)**\
-  Source: blog.hubspot.com, 2023
 
 - **[Grouped Barplot using Seaborn](https://python-graph-gallery.com/grouped-barplot/)**\
   Source: python-graph-gallery.com, 2024
@@ -140,8 +150,7 @@ Open the Jupyter Notebook, execute the cells step by step, and review visualizat
 - **[How to split data into training and testing in Python without sklearn](https://www.geeksforgeeks.org/how-to-split-data-into-training-and-testing-in-python-without-sklearn/)**\
   Source: geeksforgeeks.org, 2023
 
-- [**Pandas quantile()**](https://www.programiz.com/python-programming/pandas/methods/quantile)\
-  Source: programiz.com, 2024
+
 
 
 - **[Split dataframe into two on the basis of date](https://stackoverflow.com/questions/37532098/split-dataframe-into-two-on-the-basis-of-date)**\
