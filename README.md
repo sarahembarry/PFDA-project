@@ -10,10 +10,10 @@
 My name is Sarah Barry, and I am currently pursuing a Higher Diploma in Computing in Data Analytics at Atlantic Technological University (ATU). This repository is part of my coursework for the module: Programming for Data Analytics.
 
 ## About This Project
-This repository analyzes weather data from five Irish locations to assess wind farm feasibility. It demonstrates skills in data cleaning, visualization, and forecasting, including:
+This repository analyses weather data from five Irish locations to assess wind farm feasibility. It demonstrates skills in data cleaning, visualisation, and forecasting, including:
 
-- **Data Cleaning:** Addressed missing values and managed data with SQLite.  
-- **Visualization:** Created interactive and static plots with Plotly and Matplotlib.  
+- **Data Cleaning:** Addressed missing values and managed data using SQLite.  
+- **Visualisation:** Created interactive and static plots with Plotly and Matplotlib.  
 - **Machine Learning:** Used Linear Regression to evaluate trends and model accuracy.  
 - **Forecasting:** Developed SARIMAX models to predict 10-year wind speeds for Dublin and Malin Head.   
 
@@ -36,9 +36,10 @@ pip install -r requirements.txt
 ```
 
 3. **Run the Analysis and Explore Results:**
-Open the Jupyter Notebook, execute the cells step by step, and review visualizations and outputs.
+Open the Jupyter Notebook, execute the cells step by step, and review visualisations and outputs.
 
 ## References
+Below is a list of references used in this project:
 
 ### General References
 
@@ -77,6 +78,9 @@ Open the Jupyter Notebook, execute the cells step by step, and review visualizat
 - **[The Basics of the Python Enumerate() Function](https://blog.hubspot.com/website/python-enumerate)**\
   Source: blog.hubspot.com, 2023  
 
+- **[BUG: Un-actionable FutureWarning in DataFrame.value_counts with categorical column(s)](https://github.com/pandas-dev/pandas/issues/54775)**\
+  Source: github.com, 2023   
+
 ### Data Cleaning References
 
 - **[Pandas DataFrame copy() Method](https://realpython.com/python-raw-strings/)**\
@@ -100,7 +104,7 @@ Open the Jupyter Notebook, execute the cells step by step, and review visualizat
 - **[Pandas: How to Use dropna() with Specific Columns](https://www.statology.org/pandas-dropna-specific-column/)**\
   Source: statology.org, 2023
 
-### Visualization References
+### Visualisation References
 
 - **[Plotly: Subplots in Python](https://plotly.com/python/subplots/)**\
   Source: plotly.com, 2024
@@ -122,6 +126,15 @@ Open the Jupyter Notebook, execute the cells step by step, and review visualizat
 
 - **[Plotly: Hover Text and Formatting in Python](https://plotly.com/python/hover-text-and-formatting/#:~:text=Customizing%20Hover%20text%20with%20Plotly%20Express,-Plotly%20Express%20functions&text=The%20hover_data%20argument%20accepts%20a,bold%20as%20the%20tooltip%20title.)**\
   Source: plotly.com, 2024
+
+- **[Plotly: Sunburst Charts in Python](https://plotly.com/python/sunburst-charts/)**\
+  Source: plotly.com, 2024  
+
+- **[Plotly: plotly.express.sunburst](https://plotly.com/python-api-reference/generated/plotly.express.sunburst.html)**\
+  Source: plotly.com, 2024    
+
+- **[Plotly: Excessive margins in graphs (how to remove?)](https://community.plotly.com/t/excessive-margins-in-graphs-how-to-remove/49094)**\
+  Source: plotly.com, 2024      
 
 
 - **[Grouped Barplot using Seaborn](https://python-graph-gallery.com/grouped-barplot/)**\
