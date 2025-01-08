@@ -17,9 +17,8 @@ This repository analyses weather data from five Irish locations to assess wind f
 - **Machine Learning:** Used Linear Regression to evaluate trends and model accuracy.  
 - **Forecasting:** Developed SARIMAX models to predict 10-year wind speeds for Dublin and Malin Head.   
 
-### Key Highlights:  
-- Identified top wind energy locations using historical and forecasted data.  
-- Applied Python, SQL, and statistical analysis for actionable insights.  
+### Goals:
+- Identify top wind energy locations using historical and forecasted data. 
 
 ## How to Get Started
 
@@ -36,10 +35,10 @@ pip install -r requirements.txt
 ```
 
 3. **Run the Analysis and Explore Results:**
-Open the Jupyter Notebook, execute the cells step by step, and review visualisations and outputs.
+Open the Jupyter Notebook to access the full analysis, execute the cells, and review visualisations, outputs, and insights.
 
 ## References
-Below is a list of references used in this project:
+This project applies concepts from statistical analysis, machine learning, and visualization, with references included in the notebook where used. See also below for a complete list of references used:
 
 ### General References
 
