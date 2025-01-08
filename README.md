@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Open the Jupyter Notebook to access the full analysis, execute the cells, and review visualisations, outputs, and insights.
 
 ## References
-This project applies concepts from statistical analysis, machine learning, and visualization, with references included in the notebook where used. See also below for a complete list of references used:
+This project applies concepts from statistical analysis, machine learning, and visualization, with references included in the notebook where used. See also below for the complete list of references:
 
 ### General References
 
